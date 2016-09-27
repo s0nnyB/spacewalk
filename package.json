@@ -1,0 +1,26 @@
+{
+  "name": "spacewalk",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'hello'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://s0nnyB@github.com/s0nnyB/spacewalk.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "sunbyerley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0nnyB/spacewalk/issues"
+  },
+  "homepage": "https://github.com/s0nnyB/spacewalk#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.1",
+    "electron-packager": "^8.0.0"
+  }
+}
